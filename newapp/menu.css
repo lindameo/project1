@@ -56,4 +56,5 @@ body {
     background-color: #eee;
     color: black;
   }
-  if (a > o)
+  if (a > o && b > 0) 
+
